@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>tfpt</id>
+    <version>14.0.23206.0</version>
+    <title>Microsoft Visual Studio Team Foundation Server 2015 Power Tools</title>
+    <authors>Microsoft</authors>
+    <owners>sumo300</owners>
+    <projectUrl>https://marketplace.visualstudio.com/items?itemName=TFSPowerToolsTeam.MicrosoftVisualStudioTeamFoundationServer2015Power</projectUrl>
+    <iconUrl>https://nugetteam.gallery.vsassets.io/_apis/public/gallery/publisher/NuGetTeam/extension/NuGetPackageManager/2.8.60318.667/assetbyname/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Power Tools are a set of enhancements, tools, and command-line utilities that increase productivity of Team Foundation Server scenarios.
+
+This release supports
+* Visual Studio 2015, including any update
+* Team Foundation Server 2015, including any update </description>
+    <summary>Power Tools are a set of enhancements, tools, and command-line utilities that increase productivity of Team Foundation Server scenarios.</summary>
+    <tags>tfs powertools</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
