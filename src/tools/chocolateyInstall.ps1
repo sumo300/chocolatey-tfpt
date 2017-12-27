@@ -1,5 +1,5 @@
 ﻿$packageName= 'tfpt'
-$url        = 'https://visualstudiogallery.msdn.microsoft.com/898a828a-af00-42c6-bbb2-530dc7b8f2e1/file/177107/1/tfpt.msi'
+$url        = 'https://tfspowertoolsteam.gallerycdn.vsassets.io/extensions/tfspowertoolsteam/microsoftvisualstudioteamfoundationserver2015power/14.0.23206.0/1490046324206/177107/1/tfpt.msi'
 $silentArgs = '/Q ADDLOCAL=ALL'
 
 $packageArgs = @{

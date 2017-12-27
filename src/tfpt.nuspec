@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>tfpt</id>
-    <version>14.0.23206.0</version>
+    <version>14.0.23206.1</version>
     <title>Microsoft Visual Studio Team Foundation Server 2015 Power Tools</title>
     <authors>Microsoft</authors>
     <owners>sumo300</owners>
